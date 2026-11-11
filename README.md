@@ -188,9 +188,9 @@ star_wars_lib/
 ## 🤝 Как контрибьютить
 
 1. Форкни репозиторий.
-2. Создай ветку: `git checkout -b feature/my-feature`.
-3. Закоммить изменения: `git commit -m "Add my feature"`.
-4. Запушь: `git push origin feature/my-feature`.
+2. Создай ветку: `git checkout -b feat/my-feature`.
+3. Закоммить изменения: `git commit -m "add: my feature"`.
+4. Запушь: `git push origin feat/my-feature`.
 5. Открой Pull Request.
 
 Особенно приветствуются дополнения в `translations.py` — там ещё есть
